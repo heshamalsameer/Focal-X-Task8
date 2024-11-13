@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", "sans-serif";
+}
+
+.bgGrad {
+  background: linear-gradient(71.17deg, #feaf00 19.35%, #f8d442 90.12%);
+}
